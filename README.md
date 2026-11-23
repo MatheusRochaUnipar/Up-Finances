@@ -3,7 +3,7 @@
 Aplicação web de **organização financeira pessoal**: o usuário registra receitas e despesas, organiza por categorias e acompanha saldo e relatórios do mês.
 
 Trabalho do 2º bimestre — Unipar, Desenvolvimento Back End / Front End.
-**Grupo:** Danieli Silva e Matheus Rocha · **Professora:** Juliane Frabel
+**Grupo:** Danieli Silva e Matheus Rocha.
 
 ## Estrutura do repositório
 
